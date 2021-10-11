@@ -1,0 +1,11 @@
+{
+  "name": "unrickroll",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Adam Siekierski <adam.siekierski@appunite.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/webextension-polyfill": "^0.8.0",
+    "webextension-polyfill": "^0.8.0"
+  }
+}
