@@ -1,0 +1,8 @@
+/* TypeScript configuration for the background bundle */
+{
+  "extends": "../../tsconfig.base.json",
+  "include": ["./*"],
+
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Recommended"
+}

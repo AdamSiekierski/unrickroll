@@ -1,0 +1,12 @@
+/* TypeScript configuration for the contentScript bundle */
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
+  },
+  "include": ["./*"],
+
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Recommended"
+}

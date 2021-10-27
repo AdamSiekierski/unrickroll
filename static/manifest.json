@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Unrickroll",
+  "version": "1.0",
+
+  "description": "Never gonna give you up...",
+
+  "icons": {
+    "96": "./icon-96.bmp"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content_script.js"]
+    }
+  ]
+}
