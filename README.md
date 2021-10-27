@@ -20,4 +20,4 @@ The extension is made mainly using those technologies:
 
 Take a look at the [issues](https://github.com/AdamSiekierski/unrickroll/issues) tab, and declare taking a task.
 
-On the technical side - make a fork of the repo, create proposed changes, and open a PR to the `develop` branch. Then wait for the review, and... that's basically it!
+On the technical side - make a fork of the repo, create proposed changes, and open a PR to the main repo. Then wait for the review, and... that's basically it!
