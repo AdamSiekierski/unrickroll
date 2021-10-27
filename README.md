@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./rickroll.gif" alt="" />
 <h1 align="center">Unrickroll</h1>
-<i align="center">Never gonna give you up again...</i>
+<i align="center">Never gonna give you up...</i>
 </div>
 
 ## What's this thing?
