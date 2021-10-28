@@ -120,3 +120,6 @@ dist
 build/
 dist/
 .env
+
+**/.DS_Store
+.DS_Store
