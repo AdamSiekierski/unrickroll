@@ -5,17 +5,20 @@
   "author": "Adam Siekierski <adam.siekierski@appunite.com>",
   "license": "MIT",
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "dev": "node develop.js"
   },
   "dependencies": {
     "preact": "10.5.14",
     "webextension-polyfill": "0.8.0"
   },
   "devDependencies": {
+    "chalk": "4.1.2",
     "@rollup/plugin-commonjs": "21.0.1",
     "@rollup/plugin-node-resolve": "13.0.6",
     "@rollup/plugin-typescript": "8.3.0",
     "@types/webextension-polyfill": "0.8.0",
+    "puppeteer": "10.4.0",
     "rollup": "2.58.3",
     "rollup-plugin-copy": "3.4.0",
     "tslib": "2.3.1",
